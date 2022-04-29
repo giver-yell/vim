@@ -1,13 +1,15 @@
 # vim
 ## vim command
-### 移動系
-- 先頭へ  : `gg`   
-- 終わりに : `G`  
+### 移動系(Normal Mode)
+- 上 / 下 / 左 / 右  
+`j` / `k` / `h` / `l`  
+- 先頭へ / 終わりに   
+`gg` / `G`  
  
 - 画面単位  
 `Ctrl + b` / `Ctrl + f`   
 
-- 画面上の  
+- 表示している画面上の移動  
 `H`: Home / `M`: Middle / `L`: Last  
 
 - 単語単位  
