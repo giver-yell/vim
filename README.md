@@ -67,3 +67,13 @@
 - ファイルを開く: `:tabe [ファイル名]` e:edit  
 - タブ間の移動: `gt`  
 - タブを閉じる: `tabclose`  
+
+
+## 参考
+### ドットインストール vim入門(全18回)
+https://dotinstall.com/lessons/basic_vim
+### Youtube トラゼミ【Vim実践編】 
+https://www.youtube.com/watch?v=nQxi5l4SP-s&t=1287s
+### Qiita よく使う Vim のコマンドまとめ
+https://qiita.com/hide/items/5bfe5b322872c61a6896
+
